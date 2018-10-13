@@ -6,16 +6,13 @@ O grupo foi criado com a intenção de unir e informar a comunidade de tecnologi
 
 1. Use TAG's! O uso das tag's ajuda a organizar o grupo e também de ser facilmente achada nas pesquisas do Google. As vezes uma questão bem respondida e marcada por uma tag pode ajudar várias pessoas a achar a resposta através do potente motor de buscas, portanto, use tag's! Exemplos de tag's:
 
-[AJUDA],
-[ARTIGO],
-[DÚVIDA],
-[INFORMAÇÃO],
-[NOTÍCIA],
-[PESQUISA],
-[TEXTO],
-
-e outros... Use tag's!
-PENA: [ADVERTÊNCIA]
+- [AJUDA],
+- [ARTIGO],
+- [DÚVIDA],
+- [INFORMAÇÃO],
+- [NOTÍCIA],
+- [PESQUISA],
+- [TEXTO],e outros... Use tag's! PENA: [ADVERTÊNCIA]
 
 2. Não seja um acéfalo, não venha com perguntas miseráveis sobre como hackear Facebook, essa porra enche o saco e ninguém vai simplesmente lhe ensinar isso de mão beijada, então nem venha perguntar sobre!
 PENA: [PUBLICAÇÃO APAGADA]
