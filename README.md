@@ -1,8 +1,8 @@
-# Regras
+# Apresentação
 
 O grupo foi criado com a intenção de unir e informar a comunidade de tecnologia da informação, seja você de qualquer área dentro de TI este lugar foi feito para você e para isso nós administradores criamos algumas regras nas quais devem ser observadas e respeitadas a fim de ter uma boa convivência na comunidade.
 
-REGRAS:
+## Regras
 
 1. Use TAG's! O uso das tag's ajuda a organizar o grupo e também de ser facilmente achada nas pesquisas do Google. As vezes uma questão bem respondida e marcada por uma tag pode ajudar várias pessoas a achar a resposta através do potente motor de buscas, portanto, use tag's! Exemplos de tag's:
 
