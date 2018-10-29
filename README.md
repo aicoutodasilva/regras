@@ -29,7 +29,7 @@ PENA: [BAN PERMANENTE]
 6. Qualquer maneira de trapaça, trojan, worms, backdoor, ou seja qual for a forma de enganar os usuários deste grupo, não será permitida! Não venha dar uma de esperto, aqui é um ambiente amigável.
 PENA: [PUBLICAÇÃO APAGADA, BAN POR TRÊS DIAS, EXPOSED DE DADOS]
 
-7. Proibido comércio de número de cartões de crédito, softwares e serviços de bankers e carders, drogas, bebidas alcoólicas e outros ilícitos!
+7. Proibido comércio de número de cartões de crédito, softwares e serviços de bankers e carders, drogas, bebidas alcoólicas, cursos de atividades ilegais e outros produtos ou serviços ilícitos!
 PENA: [BAN PERMANENTE E PERFIL DO FACEBOOK REPORTADO]
 
 8. Não venha com perguntas medíocres cujo a resposta poderia ser achada de maneira fácil pesquisando no Google. Se você deseja ser um hacker o mínimo que precisa ser antes é curioso, é a base de todo o hacker, a curiosidade. Essas perguntas são muito irritantes e chateiam os que já tem mais conhecimentos na área, não seja um cara chato, use o Google!
